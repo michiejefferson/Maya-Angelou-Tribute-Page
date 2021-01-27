@@ -1,0 +1,131 @@
+h1 {
+  color: #E15F55;
+  line-height: 5%;
+  font-family: Oswald;
+  text-align: center;
+  font-size: 72px;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+}
+
+h2  {
+  color: #D3C67B;
+  line-height: 90%;
+  font-family: Montserrat;
+  text-align: center;
+  font-size: 32px;
+  text-transform: capitalize;
+  letter-spacing: 8px;
+}
+#tribute-info  {
+  text-align: justify;
+  font-size: 20px;
+  margin-top: 50px;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+body {
+  background-color: #436657;
+  font-size: 18px;
+  font-family: Roboto;
+  color: #D3C67B;
+  margin-bottom: 100px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+
+h3 {
+  color: #623C1B;
+  font-family: Oswald;
+  font-weight: bold;
+  font-size: 24px
+}
+#img-div {
+  width: auto;
+  height: auto;
+  padding: 45px;
+  background-color: #D3C67B;
+}
+
+#img-caption {
+    text-align: center;
+    font-size: 22px;
+    font-style: italic;
+    line-height: 5%;
+    color: #733900;
+    
+}
+.responsive {
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+  
+#content {
+  column-count: 2;
+  column-gap: 50px;
+  column-rule-style: solid;
+  column-rule-width: 1px;
+  column-rule-color: #623C1B;
+  column-rule: 2px solid #623C1B;
+  column-width: 400px;
+  
+}
+
+.column-1 h3{
+  text-align: right;
+  
+}
+.column-2 h3{
+  text-align: left;
+  
+}
+.column-1 p{
+  text-align: right;
+  
+}
+.column-2 p{
+  text-align: left;
+}
+a  { 
+  color: #ffd15e;
+  font-size: 18px;
+  font-family: Roboto;
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #6DCADC;
+  text-decoration: underline;
+}
+a:hover { 
+  color:  #E15F55;
+  text-decoration: underline;
+} 
+#tribute-link a{
+  color: #ffd15e;
+  font-size: 18px;
+  font-family: Roboto;
+  text-decoration: underline;
+ 
+  
+}
+#tribute-link a:visited {
+  color: #6DCADC;
+  text-decoration: underline;
+}
+#tribute-link a:hover { 
+  color:  #E15F55;
+  text-decoration: underline;
+} 
+#tribute-link {
+  text-align: left;
+}
+</style>
+
+
